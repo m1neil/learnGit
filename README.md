@@ -1,3 +1,3 @@
 #README text
 
-some changes fix1
+some fix2
